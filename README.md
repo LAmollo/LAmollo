@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Benson Amollo
-- 👀 I’m interested in front-end software development for various enterprise solutions.
-- 🌱 I’m currently learning Python and React-Native.
-- 💞️ I’m looking to collaborate on various projects within the MERN stack.
-- 📫 How to reach me: lawiamollo@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was a journalist, development and communications professional prior to picking up coding.
+
+# 🌐 Portfolio:
+### https://bensonamollo.github.io
+---
+# 💫 About Me:
+- 👋 Hi, I’m Benson Amollo<br />
+- 👀 I’m interested in front-end software development for various enterprise solutions<br />
+- 🌱 I’m currently learning Python and React-Native<br />
+- 💞️ I’m looking to collaborate on various projects within the MERN stack<br />
+🤝 I’m looking for help with my skills<br />
+- 📫You can reach me at lawiamollo@gmail.com<br />
+- 😄 Pronouns: He/Him<br />
+💬 Ask me about Front-end<br />
+- ⚡ Fun fact: I was a journalist, development and communications professional prior to picking up coding<br />
 
 <!---
 LAmollo/LAmollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
